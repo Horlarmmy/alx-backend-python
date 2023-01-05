@@ -3,5 +3,5 @@
 
 
 def sum_list(input_list: list[float]) -> float:
-    """ Function that returns the sum of a list """
+    """ Function that returns the sum of a list float """
     return sum(input_list)
